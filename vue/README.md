@@ -1,24 +1,15 @@
-# vuejs-cli-comentarios
+# Vue.js tela login e boas vindas
 
-## Project setup
+## Sobre
+Projeto usando Vue CLI e Vue Router. 
+
+### Rodar com docker-compose
 ```
-npm install
+docker-compose up -d --build ambiente-vue
 ```
 
-### Compiles and hot-reloads for development
+### Rodar na pasta sem docker-compose
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
