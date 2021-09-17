@@ -19,6 +19,7 @@
     "swagger-ui-express": "^4.1.6"
   },
   "devDependencies": {
+    "@vue/cli-plugin-router": "^4.5.13",
     "nodemon": "^2.0.12"
   }
 }
